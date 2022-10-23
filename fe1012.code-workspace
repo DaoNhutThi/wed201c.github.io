@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../fe1012"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "wed201c.github.io"
+  }
+}
